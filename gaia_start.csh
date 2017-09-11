@@ -18,3 +18,14 @@ if (-d /astromake) then
 else
     echo Warning, there is no /astromake here, that is odd.
 endif
+
+
+# some useful (?) aliases
+
+alias i   ipython
+alias j   jupyter notebook
+
+
+# some sneaky aliases
+
+alias foobar  /home/lgm/bin/foobar
