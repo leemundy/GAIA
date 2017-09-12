@@ -13,10 +13,10 @@ if (-d /astromake) then
     source /astromake/astromake_start.csh
     astroload ds9
     astroload git
-    astroload python
+    astroload -v anaconda3 python
     # R and matlab are from the default environment
 else
-    echo Warning, there is no /astromake here, that is odd.
+    echo Warning, there is no /astromake here, that is odd. Assuming your environment is ok.
 endif
 
 
