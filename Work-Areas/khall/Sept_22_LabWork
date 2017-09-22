@@ -3,3 +3,6 @@ The green spectrum is roughly 550nm, and the V-band from Wright provides the wav
 The Gmag from GAIA is roughly at the average value from the V-band. 
 There are some sources where the sources differ significantly in Gmag and V-band. The V-band appears to be about one magnitude
 dimmer than the Gmag.
+
+The effective temperature peak is around 6000K. The lower limit is roughly around 4000K, and the upper limit is around 10000K.
+The effective temperature is sharply peaked because 
