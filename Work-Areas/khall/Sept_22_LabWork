@@ -1,1 +1,5 @@
-The Gmag and V-band are similar/correlated. 
+The Gmag and V-band are similar/correlated. This is expected because the G band is the green part of the visible spectrum.
+The green spectrum is roughly 550nm, and the V-band from Wright provides the wavelengths between 500 and 600 nm. 
+The Gmag from GAIA is roughly at the average value from the V-band. 
+There are some sources where the sources differ significantly in Gmag and V-band. The V-band appears to be about one magnitude
+dimmer than the Gmag.
