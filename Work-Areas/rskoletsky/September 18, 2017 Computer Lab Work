@@ -1,1 +1,22 @@
-    Yes, the Gmag (green filter magnitude) from GAIA and V-band (visual filter magnitude) from Wright should be very similar/correlated. The green filter lies at the center of the visual band, so one would expect the G filter results to resemble V filter results. From what it seems, there does not look to be any outliers in this correlation. All of the magnitudes are quite similar to each other. As stated before, the Gmag gives the apparent magnitude through a green filter, and the V-band gives the apparent magnitude through a visual band filter centered around apprroximately 551 nm. If I were to look for outliers in the data, I would seek numbers that were either far lower or higher than the rest of the data or try and find places where Gmag and V-band are significantly different from each other.
+         Yes, the Gmag (green filter magnitude) from GAIA and V-band (visual filter magnitude) from Wright should be very similar/
+    correlated. The green filter lies at the center of the visual band, so one would expect the G filter results to resemble V 
+    filter results. From what it seems, there does not look to be any outliers in this correlation. All of the magnitudes are quite 
+    similar to each other. As stated before, the Gmag gives the apparent magnitude through a green filter, and the V-band gives the 
+    apparent magnitude through a visual band filter centered around apprroximately 551 nm. If I were to look for outliers in the data,
+    I would seek numbers that were either far lower or higher than the rest of the data or try and find places where Gmag and V-band 
+    are significantly different from each other. This would suggest erroneous data or something that should be removed.
+         The peak for Teff (effective temperature is 33,000 K. The mean of the effective temperature is about 6,032 K. The dispersion
+    shown in the standard deviation of about 1,006 K. The effective temperature is sharply peaked, and the reason for this is that
+    there are relatively few O and B type stars, but these stars are very hot, which produces a sharp peak.
+         The spread of the width of the "main sequence" does not surprise me too much. The dispersion between 9,000 K and 6,000 K is
+    more than 2 magnitudes, a factor of 6 in luminosity. However, the error in the distance is up to 15%, which is quite large, and
+    this might lead to 35-40% error in luminosity. In addition, a reason for the large dispersion is that we do not know the size of
+    the stars. Since radius plays a large role in luminosity, this might be affecting the data. Also, we don't know a lot about the 
+    error in effective temperature, so this might lead to dispersion.
+         From the histogram of G filter absolute magnitudes, it is clear that there is a peak at M=4 and very few stars lower than M=
+    0 or higher than M=7. This mostly matches what I would expect. The reason that there are few stars brighter than M=0 is that the
+    stars with high enough luminosities for this are rare (O, B, A stars). In addition, because of extinction in the galaxy, our
+    apparent magnitudes might be dimmer than we thought, and this would lessen the number of stars with absolute magnitudes lower than
+    0. The reason that there are few stars fainter than M=7 is not that stars with appropriate luminosities are not high in number.
+    Rather, because they are so dim, this corresponds to cool stars that emit mostly in the red and infrared. These stars do not have
+    bright visual absolute magnitudes, hence the lower frequency in the histogram.
