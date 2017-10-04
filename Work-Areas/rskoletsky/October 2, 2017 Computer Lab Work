@@ -3,5 +3,6 @@
 I found the average of each of the errors in a band and the magnitudes in a band. Then, I divided the average error by the average
 magnitude to find a ratio of the error to the magnitude. For the J band, this ratio of error to magnitude was about 0.0054, or 
 roughly 0.54%. This suggests that the error in magnitude is little relative tot he magnitude itself. Continuing on, the ratios
-found for H and K are very similar to this result. Thus, the errors, relative to the magnitudes themselves, are very small, but not
-negligible due to the precision required in this research.
+found for H and K are very similar to this result. In addition, looking at plots of each magnitude's error versus that magnitude,
+the errors are much smaller than the magnitudes aside from some strange outliers. Thus, the errors, relative to the magnitudes 
+themselves, are very small, but not negligible due to the precision required in this research.
