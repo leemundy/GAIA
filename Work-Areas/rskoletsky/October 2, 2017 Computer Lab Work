@@ -6,6 +6,21 @@ roughly 0.54%. This suggests that the error in magnitude is little relative tot 
 found for H and K are very similar to this result. In addition, looking at plots of each magnitude's error versus that magnitude,
 the errors are much smaller than the magnitudes aside from some strange outliers. Thus, the errors, relative to the magnitudes 
 themselves, are very small, but not negligible due to the precision required in this research.
-     Answers to questions about color-magnitude diagrams
-     Answers to questions about spectral types
-     Answers to questions about luminosity class-discriminated color-magnitude diagrams
+     I have plotted the color-magnitude diagrams with the combinations given. All of them seem to have one very large, central
+clump that is dense with stars. However, there are some outliers, with dots on the plot scattered around the central clump. What
+is strange in the plots is that there are smaller groups of stars located far away from the normal dense clump. Given that we have
+filtered out the bad flags (keeping AAA detection quality stars), this shows that something else is amiss. The likely answer is
+that these stars are "duplicates" that have been matched twice with GAIA stars, leading to erroneous locations on the diagram. We
+will have to figure out how to solve this.
+     Next, I looked at the spectral types of stars in the table. For the most part, the types are pretty standard: what you 
+would expect to see. They have a letter (i.e. O, B, A, F, G, K, M), number for the subset in the type, and Roman numeral for the
+luminosity class. However, some are strange, with multiple luminosity classes listed, plus signs ('+'), no luminosity class, etc.
+Reliable information can't be taken from this alone. We will have to address the strange qualities of some of the elements for
+spectral type.
+     After I went through and did all of the discrimination based on luminosity class, I plotted the same color-magnitude diagrams
+as before. The difference was that this time, the magnitudes were either for main sequence stars only or for giant stars only. The
+diagrams for the main sequence stars look roughly the same as before, with fewer stars and lower density. This indicates that it is
+mostly the main sequence stars that are spread out a great deal on the plots. On the other hand, the diagrams for the giant stars 
+are drastically different. There are far fewer stars and lower density. More importantly, the points are less spread out, and the 
+plot has an almost linear shape (as would be expected for an H-R Diagram analog). So, I can conclude that the giant stars are less
+spread out and therefore are observed to behave more as they are expected to.
