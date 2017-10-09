@@ -12,5 +12,9 @@ is strange in the plots is that there are smaller groups of stars located far aw
 filtered out the bad flags (keeping AAA detection quality stars), this shows that something else is amiss. The likely answer is
 that these stars are "duplicates" that have been matched twice with GAIA stars, leading to erroneous locations on the diagram. We
 will have to figure out how to solve this.
-     Answers to questions about spectral types
+     Next, I looked at the spectral types of stars in the table. For the most part, the types are pretty standard: what you 
+would expect to see. They have a letter (i.e. O, B, A, F, G, K, M), number for the subset in the type, and Roman numeral for the
+luminosity class. However, some are strange, with multiple luminosity classes listed, plus signs ('+'), no luminosity class, etc.
+Reliable information can't be taken from this alone. We will have to address the strange qualities of some of the elements for
+spectral type.
      Answers to questions about luminosity class-discriminated color-magnitude diagrams
