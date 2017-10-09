@@ -17,4 +17,10 @@ would expect to see. They have a letter (i.e. O, B, A, F, G, K, M), number for t
 luminosity class. However, some are strange, with multiple luminosity classes listed, plus signs ('+'), no luminosity class, etc.
 Reliable information can't be taken from this alone. We will have to address the strange qualities of some of the elements for
 spectral type.
-     Answers to questions about luminosity class-discriminated color-magnitude diagrams
+     After I went through and did all of the discrimination based on luminosity class, I plotted the same color-magnitude diagrams
+as before. The difference was that this time, the magnitudes were either for main sequence stars only or for giant stars only. The
+diagrams for the main sequence stars look roughly the same as before, with fewer stars and lower density. This indicates that it is
+mostly the main sequence stars that are spread out a great deal on the plots. On the other hand, the diagrams for the giant stars 
+are drastically different. There are far fewer stars and lower density. More importantly, the points are less spread out, and the 
+plot has an almost linear shape (as would be expected for an H-R Diagram analog). So, I can conclude that the giant stars are less
+spread out and therefore are observed to behave more as they are expected to.
